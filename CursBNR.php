@@ -1,15 +1,12 @@
 <?php
 	/*
 	 * Class CursBNR v1.02
-	 * Author: Ciuca Valeriu
-	 * E-mail: vali.ciuca@gmail.com
 	 * This class parses BNR's XML and returns the current exchange rate
 	 *
 	 * Requirements: PHP5 
 	 *
 	 * Last update: October 2011, 27	 
 	 * More info: https://www.curs-valutar-bnr.ro
-	 *
 	 */
 	
  	class CursBNR
